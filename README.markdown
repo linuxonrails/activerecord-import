@@ -1,3 +1,5 @@
+TODO: support sqlserver (tinytds)
+
 # activerecord-import
 
 activerecord-import is a library for bulk inserting data using ActiveRecord. 
